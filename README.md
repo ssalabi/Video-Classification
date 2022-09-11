@@ -6,7 +6,7 @@ This project consists in correctly classify the three video given.
 
 <h2>Dataset</h2>
 
-- 3 mini clips (one of archery, one of hugging, one of shaking hands)
+- <b>3 mini clips (one of archery, one of hugging, one of shaking hands)</b>
 - <b>Kinetics 400</b>
 
 <h2>Language Used</h2>
